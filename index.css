@@ -1,0 +1,55 @@
+.header{
+    font-family: serif;
+    font-size: 25px;
+    color: black;
+    line-height: 1;
+    background-color: #8fbc8f;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    font-family: serif;
+    font-size: 15px;
+    color: black;
+    line-height: 1;
+}
+
+.ryori{
+    background-color: #ebf4ef;
+    margin: 35px;
+    padding: 10px;
+}
+
+.kanko{
+    background-color: #ebf4ef;
+    margin: 35px;
+    padding: 10px;
+}
+
+.omiyage{
+    background-color: #ebf4ef;
+    margin: 35px;
+    padding: 10px;
+
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+.setumei{
+    margin: 35px;
+}
+
+h3{
+    margin-top: 45px;
+}
+
+.title{
+    font-size: 28px;
+    margin-top: 5px;;
+}
